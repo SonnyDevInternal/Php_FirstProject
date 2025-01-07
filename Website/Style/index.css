@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(54, 30, 67);
+}
+
+#websiteLayout
+{
+    text-align: center;
+    background-color: rgb(76, 76, 201);
+    height: 90%;
+    color: white;
+}
+
+#whiteTxt
+{
+    color:white;
+}
+
+.scrollableList
+{
+    text-align: left;
+    color: black;
+    width: 800px;
+    height: 200px; 
+    border: 1px solid #ccc; 
+    overflow-y: auto; 
+    background-color: #f9f9f9;
+}
+
+#commentInput
+{
+    position: absolute; 
+    top: 360px;
+    right: 950px;
+
+}
